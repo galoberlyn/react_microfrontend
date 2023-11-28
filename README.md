@@ -2,7 +2,7 @@
 
 A proof of concept that demonstrates react integration to third party websites
 
-![Alt text](mfe.png "Screenshot")
+![Alt text](test.png "Screenshot")
 
  ## What this solves
 The Strengths and Benefits of Micro Frontends. Micro-frontend architectures decompose a front-end app into individual, semi-independent “microapps” working loosely together. This can help make large projects more manageable.
